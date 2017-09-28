@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\GrapeAndRakia\bin\Debug\GrapeAndRakia.pdb
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\GrapeAndRakia\obj\Debug\GrapeAndRakia.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\GrapeAndRakia\obj\Debug\GrapeAndRakia.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\GrapeAndRakia\obj\Debug\GrapeAndRakia.pdb

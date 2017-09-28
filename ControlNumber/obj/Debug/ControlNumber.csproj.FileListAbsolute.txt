@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\ControlNumber\bin\Debug\ControlNumber.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\ControlNumber\obj\Debug\ControlNumber.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\ControlNumber\bin\Debug\ControlNumber.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\ControlNumber\bin\Debug\ControlNumber.pdb
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\ControlNumber\obj\Debug\ControlNumber.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\ControlNumber\obj\Debug\ControlNumber.pdb

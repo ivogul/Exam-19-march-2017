@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\Paralelepiped\bin\Debug\Paralelepiped.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\Paralelepiped\bin\Debug\Paralelepiped.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\Paralelepiped\bin\Debug\Paralelepiped.pdb
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\Paralelepiped\obj\Debug\Paralelepiped.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\Paralelepiped\obj\Debug\Paralelepiped.pdb

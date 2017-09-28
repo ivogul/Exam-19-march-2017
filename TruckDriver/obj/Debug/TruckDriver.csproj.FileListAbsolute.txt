@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\TruckDriver\bin\Debug\TruckDriver.exe.config
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\TruckDriver\bin\Debug\TruckDriver.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\TruckDriver\bin\Debug\TruckDriver.pdb
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\TruckDriver\obj\Debug\TruckDriver.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\TruckDriver\obj\Debug\TruckDriver.exe
+D:\Documents\Visual Studio 2015\Projects\exam_19_03_17\TruckDriver\obj\Debug\TruckDriver.pdb
